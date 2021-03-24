@@ -9,5 +9,4 @@
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://github.com/ezzylan/ezzylan/blob/master/images/linkedin.png" />](https://www.linkedin.com/in/najmi-supian/)
 [<img align="left" alt="Instagram" width="22px" src="https://github.com/ezzylan/ezzylan/blob/master/images/instagram.png" />](https://www.instagram.com/najmi.supian/)<br>
-
-[![Najmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mnajmisupian&theme=react&show_icons=true)](https://github.com/mnajmisupian/github-readme-stats)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mnajmisupian&layout=compact&theme=react)](https://github.com/mnajmisupian/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mnajmisupian&layout=compact&theme=react)](https://github.com/mnajmisupian/github-readme-stats)
