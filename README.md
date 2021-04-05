@@ -1,4 +1,4 @@
-# Hello there, I'm **Najmi Supian** from Malaysia! 👋
+# Hello there, I'm **Najmi Supian**! 👋
 
 - 🔭 I'm currently a **sophomore** majoring in **Software Engineering** at **Universiti Malaya**.
 - 🌱 I’m currently learning **Python, JavaScript and Java** for back-end development and **HTML, CSS, JavaScript** for front-end development.
